@@ -1,0 +1,26 @@
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+.idea/
+
+# Tensorboard Logs
+runs/
+test_run/
+events.out.*
+
+# Numpy arrays
+*.npy
+
+# Pickles
+*.mpk
+
+# Pytorch models
+*.pth
+
+# Images,Video and GIFS
+*.png
+*.gif
+*.mp4
+
+# JSON
+*.json
